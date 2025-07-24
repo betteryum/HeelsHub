@@ -1,7 +1,7 @@
 # HeelsHub - A Product Case Study
 垂直兴趣社区“高跟舞蹈”从0到1产品方案与原型
 
-你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。
+你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。本项目为 **Immortal Dragon 产品实习笔试**准备，因时间仓促，老师姓名和抖音链接基于真实数据，但上课时间、授课舞房及个人风格均为虚构编写。本项目使用 AI 编程辅助完成。
 
 ## 🚀 查看在线可交互原型 (Live Demo)
 [查看 HeelsRadar v1 原型](https://github.com/betteryum/HeelsHub/blob/6fe4dd2a8f9d5c36cb922c7d351d82576a87b945/HeelsRadar%20v1.html)
@@ -18,7 +18,7 @@
 ## 😫 The Problem: “种草”与“拔草”之间的巨大鸿沟
 尽管线上内容繁荣，但用户从“被视频种草”到“完成线下消费”的路径却充满了断点和壁垒。
 
-[建议在此处插入1-2张你找到的、最有代表性的“用户痛点评论”截图，例如“求问舞室在哪”、“这个老师是谁”]
+![用户痛点评论](https://raw.githubusercontent.com/betteryum/HeelsHub/b482c8f31441588bfcc9f31840ff4cafa7fc524f/images/%E5%B0%8F%E7%BA%A2%E4%B9%A6%E8%AF%A2%E9%97%AE%E8%88%9E%E6%88%BF%E8%AF%84%E8%AE%BA%E6%88%AA%E5%B1%8F.jpg)
 **图1**：用户在社交媒体上的真实“求助”
 
 我们总结出三大核心痛点：
@@ -36,8 +36,17 @@
 ## 💡 The Solution: HeelsRadar MVP原型
 这个在线原型完整地展示了MVP阶段的核心功能，旨在用“10倍效率”解决最痛的需求。
 
-[建议在此处插入1-2张你的HTML原型核心界面截图，例如“首页”和“我的”页面]
-**图2**：HeelsRadar核心界面原型
+![今日上海课程](https://raw.githubusercontent.com/betteryum/HeelsHub/b482c8f31441588bfcc9f31840ff4cafa7fc524f/images/app%20%E7%95%8C%E9%9D%A2%E9%A6%96%E9%A1%B5-%E4%BB%8A%E6%97%A5%E6%89%80%E6%9C%89%E4%B8%8A%E6%B5%B7%E8%AF%BE%E7%A8%8B%E6%88%AA%E5%B1%8F.png)
+**图2**：HeelsRadar 首页 - 今日上海所有课程
+
+![我的关注](https://raw.githubusercontent.com/betteryum/HeelsHub/b482c8f31441588bfcc9f31840ff4cafa7fc524f/images/app%20%E7%95%8C%E9%9D%A2-%E6%88%91%E7%9A%84%E5%85%B3%E6%B3%A8-%E6%88%AA%E5%B1%8F.png)
+**图3**：HeelsRadar 我的关注界面
+
+![老师简介](https://raw.githubusercontent.com/betteryum/HeelsHub/b482c8f31441588bfcc9f31840ff4cafa7fc524f/images/app%20%E7%95%8C%E9%9D%A2-%E8%80%81%E5%B8%88%E7%AE%80%E4%BB%8B-%E6%88%AA%E5%B1%8F.png)
+**图4**：HeelsRadar 老师简介界面
+
+![课程介绍](https://raw.githubusercontent.com/betteryum/HeelsHub/b482c8f31441588bfcc9f31840ff4cafa7fc524f/images/app%20%E7%95%8C%E9%9D%A2-%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D-%E6%88%AA%E5%B1%8F.png)
+**图5**：HeelsRadar 课程介绍界面
 
 - **✅ 全城课表聚合**: 首页清晰展示当天所有课程，解决信息壁垒。
 - **✅ “神仙老师”追踪器**: 用户可以“关注”老师，并在“我的”页面只看已关注老师的课程，解决KOL跟随难题。
@@ -49,5 +58,3 @@
 - **交易闭环**: 与舞室合作，提供应用内预约与支付。
 - **社区深化**: 上线穿搭问答、技术讨论、舞搭子匹配等功能。
 - **商业化**: 探索交易佣金、品牌合作、线上课程等多元化收入模式。
-
-## 🛠️ 技术栈 (Tech Stack)
