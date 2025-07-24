@@ -5,6 +5,15 @@
 
 你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。本项目为 **Immortal Dragons 产品实习笔试**准备，因时间仓促，上海舞房名称，老师姓名和抖音链接基于真实数据，但上课时间、教师授课舞房及个人风格均为虚构编写。本项目使用 AI 编程辅助完成。
 
+
+## 📂 项目文件说明
+以下是项目中核心文件的说明：
+
+- **[Heels Hub 3.0.pdf](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/Heels%20Hub%203.0.pdf)**：展示最终的 HeelsHub 产品方案 PDF 文件，详细描述了产品规划和未来愿景。
+- **[HeelsRadar v1.html](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/HeelsRadar%20v1.html)**：使用 AI 生成的网页界面，下载保存后可本地打开进行实时互动，体现了方案的初步构想交互界面。
+- **[Desk Research List.xlsx](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/Desk%20Research%20List.xlsx)**：市场调研时使用的表格，包含供给端和需求端的定性定量数据，涉及小红书、微信公众号和大众点评等平台的应用。
+
+
 ## 🚀 查看在线可交互原型 (Live Demo)
 [查看 HeelsRadar v1 原型](https://github.com/betteryum/HeelsHub/blob/6fe4dd2a8f9d5c36cb922c7d351d82576a87b945/HeelsRadar%20v1.html)
 
@@ -53,13 +62,6 @@
 - **✅ 全城课表聚合**: 首页清晰展示当天所有课程，解决信息壁垒。
 - **✅ “神仙老师”追踪器**: 用户可以“关注”老师，并在“我的”页面只看已关注老师的课程，解决KOL跟随难题。
 - **✅ 数据驱动**: 所有舞房、老师、课程数据均基于真实调研，原型中的交互逻辑（如关注、筛选）完整可用。
-
-## 📂 项目文件说明
-以下是项目中核心文件的说明：
-
-- **[Heels Hub 3.0.pdf](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/Heels%20Hub%203.0.pdf)**：展示最终的 HeelsHub 产品方案 PDF 文件，详细描述了产品规划和未来愿景。
-- **[HeelsRadar v1.html](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/HeelsRadar%20v1.html)**：使用 AI 生成的网页界面，下载保存后可本地打开进行实时互动，体现了方案的初步构想交互界面。
-- **[Desk Research List.xlsx](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/Desk%20Research%20List.xlsx)**：市场调研时使用的表格，包含供给端和需求端的定性定量数据，涉及小红书、微信公众号和大众点评等平台的应用。
 
 ## 🔮 Future Roadmap: 未来的HeelsHub
 在MVP验证成功后，产品将进入Phase 2 (HeelsHub)，逐步演进为社区与交易生态平台，探索：
