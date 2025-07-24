@@ -3,7 +3,7 @@
 # HeelsHub - A Product Case Study
 垂直兴趣社区“高跟舞蹈”从0到1产品方案与原型
 
-你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。本项目为 **Immortal Dragons 产品实习笔试**准备，因时间仓促，老师姓名和抖音链接基于真实数据，但上课时间、授课舞房及个人风格均为虚构编写。本项目使用 AI 编程辅助完成。
+你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。本项目为 **Immortal Dragons 产品实习笔试**准备，因时间仓促，上海舞房名称，老师姓名和抖音链接基于真实数据，但上课时间、教师授课舞房及个人风格均为虚构编写。本项目使用 AI 编程辅助完成。
 
 ## 🚀 查看在线可交互原型 (Live Demo)
 [查看 HeelsRadar v1 原型](https://github.com/betteryum/HeelsHub/blob/6fe4dd2a8f9d5c36cb922c7d351d82576a87b945/HeelsRadar%20v1.html)
