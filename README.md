@@ -6,18 +6,18 @@
 你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。本项目为 **Immortal Dragons 产品实习笔试**准备，因时间仓促，上海舞房名称，老师姓名和抖音链接基于真实数据，但上课时间、教师授课舞房及个人风格均为虚构编写。本项目使用 AI 编程辅助完成。
 
 
+## 💃 什么是高跟舞蹈 (Heels Dance)
+高跟舞蹈（High-Heels Dance）是一种结合性感与力量的现代舞种，舞者穿着高跟鞋，通过流畅的动作和强烈的节奏感展现自信与魅力。它融合了爵士、现代和芭蕾元素，强调身体控制、情感表达和舞台表现力。以下是一个精彩的示例，来自我的女神 Cherry🇰🇷的编舞：
+
+[GLU - USHER I CHERRY Choreography / Urban Play Dance Academy](https://www.bilibili.com/video/BV1vvyqYSEbo?vd_source=24a1c4426d59283b58ecc18029ca94ca)
+
+
 ## 📂 项目文件说明
 以下是项目中核心文件的说明：
 
 - **[Heels Hub 3.0.pdf](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/Heels%20Hub%203.0.pdf)**：展示最终的 HeelsHub 产品方案 PDF 文件，详细描述了产品规划和未来愿景。
 - **[HeelsRadar v1.html](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/HeelsRadar%20v1.html)**：使用 AI 生成的网页界面，下载保存后可本地打开进行实时互动，体现了方案的初步构想交互界面。
 - **[Desk Research List.xlsx](https://github.com/betteryum/HeelsHub/blob/25fec965997f6e7047cd8d14324bf2e2b1aa469a/Desk%20Research%20List.xlsx)**：市场调研时使用的表格，包含供给端和需求端的定性定量数据，涉及小红书、微信公众号和大众点评等平台的应用。
-
-
-## 💃 什么是高跟舞蹈 (Heels Dance)
-高跟舞蹈（High-Heels Dance）是一种结合性感与力量的现代舞种，舞者穿着高跟鞋，通过流畅的动作和强烈的节奏感展现自信与魅力。它融合了爵士、现代和芭蕾元素，强调身体控制、情感表达和舞台表现力。以下是一个精彩的示例，来自我的女神 Cherry🇰🇷的编舞：
-
-[GLU - USHER I CHERRY Choreography / Urban Play Dance Academy](https://www.bilibili.com/video/BV1vvyqYSEbo?vd_source=24a1c4426d59283b58ecc18029ca94ca)
 
 
 ## 🚀 查看在线可交互原型 (Live Demo)
