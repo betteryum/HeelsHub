@@ -4,7 +4,7 @@
 你好！本项目是一个完整的产品案例研究，旨在探索“高跟舞蹈(Heels Dance)”这一新兴垂直领域的产品机会，并产出一个高保真可交互的MVP原型。
 
 ## 🚀 查看在线可交互原型 (Live Demo)
-(请在部署后将此链接替换为你的实际GitHub Pages链接)
+[查看 HeelsRadar v1 原型](https://github.com/betteryum/HeelsHub/blob/6fe4dd2a8f9d5c36cb922c7d351d82576a87b945/HeelsRadar%20v1.html)
 
 ## 📈 The Opportunity: 亿级流量背后的市场空白
 通过对小红书、大众点评等平台的Desk Research，我们发现了一个数据惊人的蓝海市场：
